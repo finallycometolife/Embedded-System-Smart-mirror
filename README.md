@@ -5,10 +5,10 @@
 [![마이크,음성인식 테스트](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/_fQBZcZbs-8)
 
 ## SmartMirror
-
+메인이미지 자리
 
 ## SmartMirror VIDEO
-
+최종 실행 영상 유튜브 링크 삽입 자리
 
 ## Installation Process 
 제작 과정 및 설명 등 모든 보고서의 내용은 [wiki](https://github.com/kanyevelvet/Embedded_System_Final/wiki)을 참고 해주시면 감사하겠습니다.
