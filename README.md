@@ -7,7 +7,7 @@
 ## SmartMirror
 메인이미지 자리
 
-## SmartMirror VIDEO
+## SmartMirror video
 최종 실행 영상 유튜브 링크 삽입 자리
 
 ## Installation Process 
@@ -20,3 +20,5 @@
   - [@py0601](https://github.com/py0601) 박용준
   - 아버스
   - 류가홍
+
+## covid19로 한 해가 정말 힘들고 학업을 진행하기도 버거웠는데 모두 고생하셨습니다.
