@@ -1,3 +1,3 @@
 # Embedded_System_Final
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](http://img.youtube.com/vi//_fQBZcZbs-8/0.jpg)](https://youtu.be/_fQBZcZbs-8)
