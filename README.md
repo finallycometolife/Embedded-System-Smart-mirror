@@ -11,7 +11,10 @@
 최종 실행 영상 유튜브 링크 삽입 자리
 
 ## Installation Process 
-제작 과정 및 설명 등 모든 보고서의 내용은 [wiki](https://github.com/kanyevelvet/Embedded_System_Final/wiki)을 참고 해주시면 감사하겠습니다.
+제작 과정 및 설명 등 최종 보고서의 모든 내용은 [wiki](https://github.com/kanyevelvet/Embedded_System_Final/wiki)을 참고 해주시면 감사하겠습니다.
+
+## Recently Report
+[최종 보고서 이전 그동안 작성했던 github 보고서](https://github.com/stujh00/Embedded-System)
 
 ## Credits
 - 팀원
