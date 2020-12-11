@@ -2,7 +2,7 @@
 
 저희 조가 만든 `스마트미러` 는 라즈베리파이4와 [smartbuilds.io](https://smartbuilds.io/)를 기반으로 제작하였습니다. 
 
-유튜브 링크 테스트 이미지[![마이크,음성인식 테스트](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/_fQBZcZbs-8)
+유튜브 링크 테스트 이미지[![마이크,음성인식 테스트](http://drive.google.com/uc?export=view&id=1t6ANWNQ_SEdyPCVBMvardDOOOmhx3I9_)](https://youtu.be/_fQBZcZbs-8)
 
 ## SmartMirror
 메인이미지 자리
