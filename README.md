@@ -7,7 +7,6 @@
 ![Main](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/Main.jpg)
 
 ## Watch the video on YouTube
-프로젝트의 동작 영상은 아래 이미지를 클릭해주세요.
 [![비디오동작영상](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/video.jpg)](https://youtu.be/upkO8NUpqAw)
 
 ## Installation Process 
