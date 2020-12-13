@@ -3,7 +3,7 @@
 저희 조가 만든 `스마트미러` 는 라즈베리파이4와 [smartbuilds.io](https://smartbuilds.io/)를 기반으로 제작하였습니다. 
 
 
-## SmartMirror
+## Introduce
 ![Main](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/Main.jpg)
 
 ## Watch the video on YouTube
