@@ -9,7 +9,7 @@
 
 ## SmartMirror video
 최종 실행 영상 유튜브 링크 삽입 자리
-유튜브 링크 테스트 이미지[![마이크,음성인식 테스트](http://drive.google.com/uc?export=view&id=1qhx2N0lncx-1nMN0dIWxdWSX6j4qjDr8)](https://youtu.be/_fQBZcZbs-8)
+유튜브 링크 테스트 이미지[![마이크,음성인식 테스트](http://drive.google.com/uc?export=view&id=1qhx2N0lncx-1nMN0dIWxdWSX6j4qjDr8)](https://youtu.be/upkO8NUpqAw)
 
 ## Installation Process 
 제작 과정 및 설명 등 최종 보고서의 모든 내용은 [wiki](https://github.com/kanyevelvet/Embedded_System_Final/wiki)을 클릭해주세요.
