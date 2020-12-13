@@ -3,19 +3,19 @@
 저희 조가 만든 `스마트미러` 는 라즈베리파이4와 [smartbuilds.io](https://smartbuilds.io/)를 기반으로 제작하였습니다. 
 
 
-
 ## SmartMirror
 ![Main](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/Main.jpg)
 
 ## Watch the video on YouTube
 프로젝트의 동작 영상은 아래 이미지를 클릭해주세요.
-유튜브 링크 테스트 이미지[![비디오동작영상](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/video.jpg)](https://youtu.be/upkO8NUpqAw)
+[![비디오동작영상](https://github.com/kanyevelvet/Embedded_System_Final/blob/main/resources/images/video.jpg)](https://youtu.be/upkO8NUpqAw)
 
 ## Installation Process 
 제작 과정 및 설명 등 최종 보고서의 모든 내용은 [wiki](https://github.com/kanyevelvet/Embedded_System_Final/wiki)을 클릭해주세요.
 
 ## Recently Report
 최종 보고서 이전 그동안 작성했던 [github 보고서](https://github.com/stujh00/Embedded-System)
+키트 목록 조사[kit](https://github.com/kanyevelvet/embedded-kit)
 
 ## Credits
 - 팀원
